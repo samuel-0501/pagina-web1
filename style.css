@@ -54,3 +54,7 @@ body.dark-mode button {
     background-color: #f5f6f7;
     color: #18191a;
 }
+/* Cria um espaço entre os botões */
+button {
+    margin: 5px;
+}
